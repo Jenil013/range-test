@@ -1,0 +1,12 @@
+{
+  "modulation": "lora",
+  "frequency": 433050000,
+  "txpwr": 15,
+  "spread_factor": 7,
+  "coding_rate": 5,
+  "bandwidth": 125,
+  "crc": true,
+  "iqi": false,
+  "sync": 67,
+  "preamble": 6
+}
