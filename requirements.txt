@@ -5,5 +5,6 @@ iso8601==2.1.0
 pytz==2025.2
 PyYAML==6.0.3
 serial==0.0.97
+pyserial==3.5
 typing==3.7.4.3
 zope.interface==8.0.1
